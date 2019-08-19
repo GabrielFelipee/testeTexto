@@ -2,5 +2,6 @@ teste do Gabriel Felipe 3.
 teste do Gabriel Felipe 4.123
 teste do Gabriel Felipe 4.
 teste do Gabriel Felipe 5.
-teste do Gabriel Felipe 6.2
+teste do Gabriel Felipe 6.23
+teste do Gabriel Felipe 7
 
